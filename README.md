@@ -11,7 +11,7 @@ Keyboard/mouse switch using two Raspberry Pi Picos (you only need one of you alr
 ## Project state
  
 I created this project mainly for personal use. Expect bugs and little maintenance.
- 
+
 ## Known bugs
- 
+
 - evserial doesn't reconnect properly when USB serial is disconnected and reconnected
