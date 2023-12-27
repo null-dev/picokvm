@@ -15,3 +15,7 @@ I created this project mainly for personal use. Expect bugs and little maintenan
 ## Known bugs:
 
 - evserial doesn't reconnect properly when USB serial is disconnected and reconnected
+
+## License
+
+MIT. However a lot of code was copied from https://github.com/emberian/evdev and inherits that license.
